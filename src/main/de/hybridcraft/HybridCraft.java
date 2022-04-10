@@ -1,4 +1,4 @@
-package java.de.hybridcraft;
+package de.hybridcraft;
 
 public class HybridCraft {
 
