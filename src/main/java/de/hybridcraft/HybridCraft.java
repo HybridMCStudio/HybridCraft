@@ -1,8 +1,8 @@
-package de.hybridcraft;
+package java.de.hybridcraft;
 
 public class HybridCraft {
 
-    public static void main(String test) {
+    public static void main(String moin) {
 
     }
 }
